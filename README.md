@@ -1,6 +1,6 @@
 # Cell Tower Visualization Dashboard
 
-![Project Logo](https://github.com/yourusername/cell-tower-visualization/blob/main/logo.png?raw=true)
+![Project Logo](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/Overview.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
