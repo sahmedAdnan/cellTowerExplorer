@@ -65,15 +65,21 @@ The dashboard displays total and filtered record counts, providing context to yo
 ## screenshots
 Choropleth map showing cell tower density per 100,000 people by country.
 ![Choropleth map](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_1.png)
+
 Scatter map displaying individual cell tower locations with color-coded radio types.
 ![Scatter map](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_2.png)
+
 Bar charts illustrating radio distribution.
-![Bar charts](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_3.png)
+![charts](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_3.png)
+
 Bar charts illustrating radio distribution and top countries by cell tower count.
 ![Bar charts](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_4.png)
+
 Treemap representing hierarchical distribution of cell towers.
 ![Tree map](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_5.png)
+
 Growth trend for operator
 ![operator](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_6.png)
+
 Area and line charts showcasing cumulative and operator-specific growth trends over time.
 ![growth trend](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_7.png)
