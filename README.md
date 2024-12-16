@@ -51,5 +51,10 @@ By integrating cell tower data with population statistics, the dashboard provide
 
 1. **Clone the Repository:**
 
-  ` git clone https://github.com/yourusername/cell-tower-visualization.git
-   cd cell-tower-visualization`
+```bash
+   git clone https://github.com/yourusername/cell-tower-visualization.git
+   cd cell-tower-visualization```
+
+Create a Virtual Environment:
+
+It's recommended to use a virtual environment to manage dependencies.
