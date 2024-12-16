@@ -56,11 +56,11 @@ Use the dropdown menus on the sidebar to filter cell towers by country, operator
 - **Explore Maps:**
 Navigate to the Map Visualizations tab to view choropleth and scatter maps illustrating tower density and distribution.
 
--**Analyze Insights:**
+- **Analyze Insights:**
 Switch to the Data Insights tab to compare radio technology distributions, identify top countries, and explore hierarchical relationships through treemaps.
 
--**Examine Trends:**
+- **Examine Trends:**
 Visit the Trends & Analysis tab to observe growth patterns over time, both cumulatively and operator-specific.
 
--**View Record Counts:**
+- **View Record Counts:**
 The dashboard displays total and filtered record counts, providing context to your selections.
