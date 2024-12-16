@@ -75,7 +75,7 @@ Bar chart illustrating radio distribution.
 
 
 Bar charts illustrating radio distribution and top countries by cell tower count.
-![Bar charts](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_4.png)
+![Bar](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_4.png)
 
 Treemap representing hierarchical distribution of cell towers.
 ![Tree map](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_5.png)
@@ -85,3 +85,6 @@ Growth trend for operator
 
 Area and line charts showcasing cumulative and operator-specific growth trends over time.
 ![growth trend](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_7.png)
+
+## Presentation
+![presentation](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/Presentation/Presentation_Group_28.mp4)
