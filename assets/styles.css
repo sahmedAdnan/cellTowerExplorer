@@ -1,0 +1,48 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #000000; /* Black text */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 16px;
+    color: #000000; /* Black text */
+}
+
+/* Other Text Elements */
+p, label, div, span, a {
+    font-size: 14px;
+    color: #000000; /* Black text */
+}
+
+/* Tabs Styling */
+.nav-link {
+    color: #000000 !important; /* Black color for tab labels */
+}
+
+.nav-link:hover {
+    color: #000000 !important; /* Black color on hover */
+}
+
+.nav-link.active {
+    color: #000000 !important; /* Black color for active tab */
+}
+
+/* Dropdown Menu Styling */
+.dropdown-menu a {
+    color: #000000 !important; /* Black color for dropdown items */
+}
+
+.dropdown-menu a:hover {
+    color: #000000 !important; /* Black color on hover */
+}
+
+/* Remove Blue Color from Links */
+a {
+    color: #000000 !important; /* Black color for links */
+}
+
+a:hover {
+    color: #000000 !important; /* Black color on hover */
+}
