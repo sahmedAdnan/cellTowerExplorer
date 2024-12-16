@@ -87,4 +87,4 @@ Area and line charts showcasing cumulative and operator-specific growth trends o
 ![growth trend](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_7.png)
 
 ## Presentation
-![](https://drive.google.com/file/d/1tgNQUW9lVwP-5DJfPhgNvZlFIiP8dIOu/view?usp=sharing)
+![](https://youtu.be/3xkFmEhaWJU)
