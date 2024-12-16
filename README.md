@@ -47,14 +47,20 @@ By integrating cell tower data with population statistics, the dashboard provide
 - **Python 3.7 or higher**  
   Ensure you have Python installed on your system. You can download it from the [official website](https://www.python.org/downloads/).
 
-### Steps
+### Usage
+   Once the application is running, you can:
 
-1. **Clone the Repository:**
+- **Filter Data:**
+Use the dropdown menus on the sidebar to filter cell towers by country, operator, and radio type.
 
-```bash
-   git clone https://github.com/yourusername/cell-tower-visualization.git
-   cd cell-tower-visualization```
+- **Explore Maps:**
+Navigate to the Map Visualizations tab to view choropleth and scatter maps illustrating tower density and distribution.
 
-Create a Virtual Environment:
+-**Analyze Insights:**
+Switch to the Data Insights tab to compare radio technology distributions, identify top countries, and explore hierarchical relationships through treemaps.
 
-It's recommended to use a virtual environment to manage dependencies.
+-**Examine Trends:**
+Visit the Trends & Analysis tab to observe growth patterns over time, both cumulatively and operator-specific.
+
+-**View Record Counts:**
+The dashboard displays total and filtered record counts, providing context to your selections.
