@@ -69,8 +69,10 @@ Choropleth map showing cell tower density per 100,000 people by country.
 Scatter map displaying individual cell tower locations with color-coded radio types.
 ![Scatter map](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_2.png)
 
-Bar charts illustrating radio distribution.
+Bar chart illustrating radio distribution.
 ![charts](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_3.png)
+
+
 
 Bar charts illustrating radio distribution and top countries by cell tower count.
 ![Bar charts](https://github.com/sahmedAdnan/cellTowerExplorer/blob/main/pic/BD_4.png)
